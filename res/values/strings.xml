@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AccessibilitySpeechExample</string>
+    <string name="speak_button_label">Speak</string>
+    <string name="listen_button_label">Listen</string>
+    <string name="locale_not_supported_text">Your default Locale is not supported in TTS.</string>
+    <string name="tts_not_initialized_text">Your TTS Engine was not initialized correctly.</string>
+    <string name="speech_not_recognized_text">Speech could not be recognized correctly. Try again.</string>
+    <string name="speech_recognition_prompt_text">Try to speak clearly...</string>
+    <string name="edit_text_hint">Type in text to be spoken...</string>
+</resources>
